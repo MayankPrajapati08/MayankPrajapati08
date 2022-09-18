@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mayank Prajapati 
 - 👀 I’m interested in Software Development, Mobile Application Development, Cyber Security and Machine Leraning. 
 - 🌱 I’m currently 4th Year Student of Computer Science and Engineering. 
-- 📫 How to reach me on Instagram - the_mayankprajapati
+- Reach me on Instagram - the_mayankprajapati | Linkedin - mayank-prajapati-b7b4721b3
