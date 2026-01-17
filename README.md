@@ -2,12 +2,12 @@
 
 **Software Developer | Full-Stack & Mobile App Specialist**
 
-[cite_start]I am a 2023 Computer Science graduate and a passionate Software Developer currently working at **Rashi Technologies**[cite: 12, 13, 30]. [cite_start]I specialize in building scalable mobile applications with **Flutter** and robust backend systems using **Spring Boot** and **Express.js**[cite: 14, 25].
+I am a 2023 Computer Science graduate and a passionate Software Developer currently working at **Rashi Technologies**. I specialize in building scalable mobile applications with **Flutter** and robust backend systems using **Spring Boot** and **Express.js**.
 
-- [cite_start]🔭 I’m currently working on **Full-Stack Development**, expanding from Mobile to backend infrastructure using **Express.js, MongoDB, and Payload CMS**[cite: 14].
-- [cite_start]💼 Previously, I worked as an **Associate Analyst at GlobalLogic**, focusing on Generative AI data validation and Prompt Engineering[cite: 19, 21, 23].
-- [cite_start]🌱 My core technical domain includes **Software Technology, Cyber Security, and Digital Forensics**[cite: 9].
-- [cite_start]🏆 **Achievement:** Secured **1st Rank** in the Annual Coding Competition at CUTM[cite: 54].
+- 🔭 I’m currently working on **Full-Stack Development**, expanding from Mobile to backend infrastructure using **Express.js, MongoDB, and Payload CMS**.
+- 💼 Previously, I worked as an **Associate Analyst at GlobalLogic**, focusing on Generative AI data validation and Prompt Engineering.
+- 🌱 My core technical domain includes **Software Technology, Cyber Security, and Digital Forensics**.
+- 🏆 **Achievement:** Secured **1st Rank** in the Annual Coding Competition at CUTM.
 
 ---
 
@@ -41,18 +41,18 @@
 
 ### 🎓 Placement Management System
 *A web application to manage campus recruitment activities including job postings and applications.*
-- [cite_start]**Tech Stack:** Spring Boot, React, Bootstrap, MySQL[cite: 28, 29].
-- [cite_start]**Features:** Role-based auth (Student, TPO, Recruiter)[cite: 43].
+- **Tech Stack:** Spring Boot, React, Bootstrap, MySQL.
+- **Features:** Role-based auth (Student, TPO, Recruiter).
 
 ### 🍔 The Canteen Application
 *Cross-platform app for meal ordering and queue status.*
-- [cite_start]**Tech Stack:** Flutter, Firebase (Firestore & Auth)[cite: 44, 47].
-- [cite_start]**Features:** Real-time queueing, meal ordering, and digital attendance[cite: 46].
+- **Tech Stack:** Flutter, Firebase (Firestore & Auth).
+- **Features:** Real-time queueing, meal ordering, and digital attendance.
 
 ### 📊 PhD Dashboard (Backend)
 *Comprehensive scholar management system.*
-- [cite_start]**Tech Stack:** Spring Boot[cite: 48, 50].
-- [cite_start]**Features:** Admission management, synopsis approval, and interview tracking[cite: 51].
+- **Tech Stack:** Spring Boot.
+- **Features:** Admission management, synopsis approval, and interview tracking.
 
 ---
 
@@ -62,4 +62,4 @@
 
 📧 **Email:** mayankprajapati0810@gmail.com
 -
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MayankPrajapati08&theme=android-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MayankPrajapati08&theme=android-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
