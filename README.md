@@ -62,4 +62,4 @@ I am a 2023 Computer Science graduate and a passionate Software Developer curren
 
 📧 **Email:** mayankprajapati0810@gmail.com
 -
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MayankPrajapati08&theme=android-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MayankPrajapati08&theme=android-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
