@@ -61,5 +61,5 @@
 [<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mayank-prajapati-b7b4721b3/) &nbsp; [<img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='40'>](https://www.instagram.com/the_mayankprajapati)
 
 📧 **Email:** mayankprajapati0810@gmail.com
-- 
-                              [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MayankPrajapati08&theme=android-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MayankPrajapati08&theme=android-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
