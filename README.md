@@ -1,4 +1,4 @@
-# Hi there, I'm Mayank Kumar Prajapati 👋
+# Hi there, I'm Mayank Prajapati 👋
 
 **Software Developer | Full-Stack & Mobile App Specialist**
 
